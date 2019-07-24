@@ -1,4 +1,6 @@
 # Your code here
 
 
-def meal_choice
+def meal_choice(veg1,veg2)
+  puts "What a nutritious meal!"
+  puts "A plate of #{
